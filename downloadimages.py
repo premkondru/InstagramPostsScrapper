@@ -2,6 +2,7 @@
 """
 download_images_and_update_csv.py
 
+
 Reads an input CSV with columns: url, caption, hashtags
 Downloads each image in `url` to an images folder
 Writes an output CSV that adds a new column: image_name
