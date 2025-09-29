@@ -203,5 +203,3 @@ python copy_images_to_events.py \
 * Always check Instagram/Apify’s terms before scraping or redistributing content.
 
 ---
-
-Do you want me to also create a **sample `posts_with_events.csv` template** (from your dataset) so you can just fill in the `event` column and run the event organizer immediately?
